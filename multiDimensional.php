@@ -1,5 +1,4 @@
 <?php
-
 $users =  [
     [1,"Tony", "tonystark@test.com", 16],
     [2,"Tom", "tomhardy22@test.com", 22],
